@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Manisha
 
-<!--
-**manisha-jun/manisha-jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Service Analyst at HCL (L1 technical support) currently transitioning into
+software engineering, learning Python and building projects that turn real
+support-desk problems into working tools.
 
-Here are some ideas to get you started:
+**Currently learning:** Python, Git, unit testing (pytest), REST APIs
+**Background:** BCA, enterprise IT support, hands-on exposure to Cisco Finesse & Cisco Jabber
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects**
+- [ticket-triage-cli](https://github.com/manisha-jun/ticket-triage-cli) — CLI tool to prioritize support tickets (in progress)
+
+**Find me:** [LinkedIn](www.linkedin.com/in/manisharamakrishnan)
