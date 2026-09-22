@@ -10,4 +10,4 @@ support-desk problems into working tools.
 **Projects**
 - [ticket-triage-cli](https://github.com/manisha-jun/ticket-triage-cli) — CLI tool to prioritize support tickets (in progress)
 
-**Find me:** [LinkedIn](www.linkedin.com/in/manisharamakrishnan)
+**Find me:** [LinkedIn](https://www.linkedin.com/in/manisharamakrishnan)
