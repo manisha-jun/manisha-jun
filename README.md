@@ -5,6 +5,7 @@ software engineering, learning Python and building projects that turn real
 support-desk problems into working tools.
 
 **Currently learning:** Python, Git, unit testing (pytest), REST APIs
+
 **Background:** BCA, enterprise IT support, hands-on exposure to Cisco Finesse & Cisco Jabber
 
 **Projects**
